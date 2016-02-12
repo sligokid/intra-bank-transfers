@@ -1,0 +1,17 @@
+This was a fun exercise, but time was very limited.
+
+Questions:
+Please also give us your answer to the following questions:
+• How would you improve your solution?
+	I would add Transaction support around the fund exchange.
+	The HashCode / Equals methods need to be created for my own user defined Classes particularly since they are stored in collections.
+	The Transfer history has not been implemented and that would need to be replicated off site
+	I would use Spring or another dependency injection framework to manage the object creation.
+
+• How would you adapt your solution if transfers are not instantaneous?
+	Payments should be booked over a messaging middleware back to a clearing house
+	This middleware(Rendezvous maybe) would guarantee delivery of the booking request by Queueing.
+	This booking would be a publish downstream framework
+	
+Kieran Mc Gowan
+kmg_cv@yahoo.com
