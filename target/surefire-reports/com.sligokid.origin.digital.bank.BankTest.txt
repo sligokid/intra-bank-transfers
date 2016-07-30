@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sligokid.origin.digital.bank.BankTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec

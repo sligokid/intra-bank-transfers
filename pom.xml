@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.sligokid.origin.digital</groupId>
-  <artifactId>bank</artifactId>
+  <artifactId>intra-bank-transfers</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.0</version>
+      <version>4.4</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
